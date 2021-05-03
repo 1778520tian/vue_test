@@ -1,6 +1,6 @@
 <template>
   <div>
-    我是vue程序
+    我是vue第一个程序
   </div>
 </template>
 <script>
